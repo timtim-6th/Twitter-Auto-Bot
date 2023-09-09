@@ -19,4 +19,4 @@ tweet_text = "Hello, Twitter! This is not a test tweet from my Twitter bot. #Not
 # Post a tweet
 api.update_status(status=tweet_text)
 
-print("Tweet posted successfully!")
+print("Tadang!tweeeeted!")
